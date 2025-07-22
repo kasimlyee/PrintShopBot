@@ -1,2 +1,2 @@
 # PrintShopBot
-A smart automatic printer helper software
+PrintShopBot is a Windows-based automation software designed for small to medium-sized print shops to streamline client print job submissions and processing. By integrating with WhatsApp, clients can scan a QR code to interact with a bot, specify print options (e.g., copies, duplex, color/B&W), and upload files. The software automates file validation, job queuing, and printing, directing jobs to configured printers based on user-selected options. A modern, user-friendly interface provides shop staff with a dashboard to manage orders, monitor job statuses, and configure printers, reducing manual tasks and enabling efficient handling of multiple customers
